@@ -7,6 +7,8 @@ import java.util.concurrent.TimeUnit;
  * Created by evgeniytupitsyn on 05/11/2016.
  */
 public class Main {
+    System.out.println("Введите исходную директорию для поиска файлов:");
+
     public void wordUnique() {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         // Считываем исходный каталог для поиска файлов.
