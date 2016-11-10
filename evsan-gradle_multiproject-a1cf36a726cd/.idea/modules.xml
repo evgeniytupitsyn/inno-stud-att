@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle_Multiproject.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle_Multiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project_main.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project_test.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project.iml" group="main_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project_main.iml" group="main_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project_test.iml" group="main_project" />
+    </modules>
+  </component>
+</project>
