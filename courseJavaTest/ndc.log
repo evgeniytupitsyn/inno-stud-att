@@ -1,0 +1,3 @@
+2016-11-10 16:31:38,466 ERROR [{}] Some
+2016-11-10 16:39:50,682 ERROR [{{username,Admin}}] Method main executed
+2016-11-10 16:39:50,703 ERROR [{{username,Admin}}] Method doSome executed
