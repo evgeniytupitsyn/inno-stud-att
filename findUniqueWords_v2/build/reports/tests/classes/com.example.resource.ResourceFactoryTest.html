@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class com.example.resource.ResourceFactoryTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class com.example.resource.ResourceFactoryTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.example.resource.html">com.example.resource</a> &gt; ResourceFactoryTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">1</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.014s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">createResourceWithParam</td>
+<td>0.014s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>log4j: Parsing for [root] with value=[WARN, warnAppender, warnFileAppender].
+log4j: Level token is [WARN].
+log4j: Category root set to WARN
+log4j: Parsing appender named &quot;warnAppender&quot;.
+log4j: Parsing layout options for &quot;warnAppender&quot;.
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5p][%-16.16t][%30c] - %m%n].
+log4j: End of parsing for &quot;warnAppender&quot;.
+log4j: Setting property [threshold] to [WARN].
+log4j: Parsed &quot;warnAppender&quot; options.
+log4j: Parsing appender named &quot;warnFileAppender&quot;.
+log4j: Parsing layout options for &quot;warnFileAppender&quot;.
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for &quot;warnFileAppender&quot;.
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [threshold] to [WARN].
+log4j: Setting property [file] to [logs/errors.log].
+log4j: setFile called: logs/errors.log, true
+log4j: setFile ended
+log4j: Appender [warnFileAppender] to be rolled at midnight.
+log4j: Parsed &quot;warnFileAppender&quot; options.
+log4j: Parsing for [com.example] with value=[DEBUG, runAppender, runFileAppender, debugFileAppender].
+log4j: Level token is [DEBUG].
+log4j: Category com.example set to DEBUG
+log4j: Parsing appender named &quot;runAppender&quot;.
+log4j: Parsing layout options for &quot;runAppender&quot;.
+log4j: End of parsing for &quot;runAppender&quot;.
+log4j: Parsed &quot;runAppender&quot; options.
+log4j: Parsing appender named &quot;runFileAppender&quot;.
+log4j: Parsing layout options for &quot;runFileAppender&quot;.
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for &quot;runFileAppender&quot;.
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [threshold] to [INFO].
+log4j: Setting property [file] to [logs/run.log].
+log4j: setFile called: logs/run.log, true
+log4j: setFile ended
+log4j: Appender [runFileAppender] to be rolled at midnight.
+log4j: Parsed &quot;runFileAppender&quot; options.
+log4j: Parsing appender named &quot;debugFileAppender&quot;.
+log4j: Parsing layout options for &quot;debugFileAppender&quot;.
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for &quot;debugFileAppender&quot;.
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [file] to [logs/debug.log].
+log4j: setFile called: logs/debug.log, true
+log4j: setFile ended
+log4j: Appender [debugFileAppender] to be rolled at midnight.
+log4j: Parsed &quot;debugFileAppender&quot; options.
+log4j: Handling log4j.additivity.com.example=[null]
+log4j: Parsing for [com.example.Test] with value=[INFO, runAppender, testFileAppender].
+log4j: Level token is [INFO].
+log4j: Category com.example.Test set to INFO
+log4j: Parsing appender named &quot;runAppender&quot;.
+log4j: Appender &quot;runAppender&quot; was already parsed.
+log4j: Parsing appender named &quot;testFileAppender&quot;.
+log4j: Parsing layout options for &quot;testFileAppender&quot;.
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for &quot;testFileAppender&quot;.
+log4j: Setting property [threshold] to [INFO].
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [file] to [logs/test.log].
+log4j: setFile called: logs/test.log, true
+log4j: setFile ended
+log4j: Appender [testFileAppender] to be rolled at midnight.
+log4j: Parsed &quot;testFileAppender&quot; options.
+log4j: Handling log4j.additivity.com.example.Test=[null]
+log4j: Finished configuring.
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 2.13</a> at Nov 13, 2016 6:55:12 PM</p>
+</div>
+</div>
+</body>
+</html>

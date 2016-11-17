@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.HelloWorldTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2016-11-11T14:04:02" hostname="MacBook-Pro-Evgenij.local" time="0.005">
+  <properties/>
+  <testcase name="sumTest" classname="com.example.HelloWorldTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDoSome" classname="com.example.HelloWorldTest" time="0.002"/>
+  <system-out><![CDATA[log4j: Parsing for [root] with value=[WARN, javaCourseAppender].
+log4j: Level token is [WARN].
+log4j: Category root set to WARN
+log4j: Parsing appender named "javaCourseAppender".
+log4j: Parsing layout options for "javaCourseAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5p][%-16.16t][%30c] - [%X] %m%n].
+log4j: End of parsing for "javaCourseAppender".
+log4j: Parsed "javaCourseAppender" options.
+log4j: Parsing for [com.example] with value=[INFO, ndc].
+log4j: Level token is [INFO].
+log4j: Category com.example set to INFO
+log4j: Parsing appender named "ndc".
+log4j: Parsing layout options for "ndc".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for "ndc".
+log4j: Setting property [file] to [ndc.log].
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: setFile called: ndc.log, true
+log4j: setFile ended
+log4j: Appender [ndc] to be rolled at midnight.
+log4j: Parsed "ndc" options.
+log4j: Handling log4j.additivity.com.example=[null]
+log4j: Parsing for [com.example.Main] with value=[INFO, application].
+log4j: Level token is [INFO].
+log4j: Category com.example.Main set to INFO
+log4j: Parsing appender named "application".
+log4j: Parsing layout options for "application".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5p][%-16.16t][%20c{-2}] - %m%n].
+log4j: End of parsing for "application".
+log4j: Setting property [file] to [application.log].
+log4j: setFile called: application.log, true
+log4j: setFile ended
+log4j: Parsed "application" options.
+log4j: Handling log4j.additivity.com.example.Main=[null]
+log4j: Parsing for [com.example.HelloWorld] with value=[INFO, application2].
+log4j: Level token is [INFO].
+log4j: Category com.example.HelloWorld set to INFO
+log4j: Parsing appender named "application2".
+log4j: Parsing layout options for "application2".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5p][%-16.16t][%20c{-2}] - %m%n].
+log4j: End of parsing for "application2".
+log4j: Setting property [file] to [applicationTwo.log].
+log4j: setFile called: applicationTwo.log, true
+log4j: setFile ended
+log4j: Parsed "application2" options.
+log4j: Handling log4j.additivity.com.example.HelloWorld=[null]
+log4j: Finished configuring.
+2016-11-11 17:04:02,505 [INFO ][Test worker     ][    com.example.HelloWorldTest] - [{}] This is @BeforeClass method
+2016-11-11 17:04:02,519 [INFO ][Test worker     ][    com.example.HelloWorldTest] - [{}] This is @Before method
+2016-11-11 17:04:02,519 [INFO ][Test worker     ][    com.example.HelloWorldTest] - [{}] This is testHandle method
+2016-11-11 17:04:02,520 [INFO ][Test worker     ][    com.example.HelloWorldTest] - [{}] This is @After method
+2016-11-11 17:04:02,521 [INFO ][Test worker     ][    com.example.HelloWorldTest] - [{}] This is @AfterClass method
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
