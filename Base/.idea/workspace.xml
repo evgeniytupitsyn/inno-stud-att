@@ -5,430 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca6f613-28e7-416e-af83-5f1f1d1d7749" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/test/ru/innopolis/resources/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/test/ru/innopolis/resources/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.null.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/test/ru/innopolis/resources/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/test/ru/innopolis/resources/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.null.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Useinov Task 1 Variation 2.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/library/Simple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/Mock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/StreamReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/StreamWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/test/com/example/HelloWorldTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/distributions/findUniqueWords-1.0-SNAPSHOT.tar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/distributions/findUniqueWords-1.0-SNAPSHOT.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/libs/findUniqueWords-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/libs/findUniqueWords-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/output.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/results.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/resource/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/resource/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/FindDuplicates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/resource/FarmResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/resource/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/resource/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/main/com/example/resource/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/test/com/example/resource/FarmResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/classes/test/com/example/resource/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/binary/test/output.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/binary/test/results.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/Execute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/classloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ClientJava.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/HttpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ServerJava.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task 1 Variation 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task_1_Variation_2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task_1_Variation_2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/test/java/ru/innopolis/resources/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/test/java/ru/innopolis/resources/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task 1 Variation 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task_1_Variation_2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task_1_Variation_2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/debug.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/errors.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/run.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/out/production/Task 1 Variation 2/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/test/java/ru/innopolis/resources/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/test/java/ru/innopolis/resources/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_mockito_mockito_all_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/application.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/applicationTwo.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/classes/com.example.HelloWorldTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/classes/com.example.MockTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/css/base-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/js/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/packages/com.example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/scripts/findUniqueWords" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/scripts/findUniqueWords.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/TEST-com.example.HelloWorldTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/TEST-com.example.MockTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/tmp/war/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/ndc.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/ndc.log.2016-11-10.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/out/production/findUniqueWords/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/library/Simple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/Mock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/StreamReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/StreamWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/resource/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/resource/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/modules/findUniqueWords_v2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/modules/findUniqueWords_v2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/modules/findUniqueWords_v2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/classes/com.example.resource.FarmResourceTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/classes/com.example.resource.ResourceFactoryTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/classes/com.example.resource.ResourceTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/css/base-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/js/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/reports/tests/packages/com.example.resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/TEST-com.example.resource.FarmResourceTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/TEST-com.example.resource.ResourceFactoryTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/test-results/TEST-com.example.resource.ResourceTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/out/production/findUniqueWords_v2/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/FindDuplicates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/resource/FarmResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/resource/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/resource/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/java/com/example/resource/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/test/java/com/example/resource/FarmResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/src/test/java/com/example/resource/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../evsan-gradle_multiproject-a1cf36a726cd.zip" afterPath="$PROJECT_DIR$/../all/evsan-gradle_multiproject-a1cf36a726cd.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/library_project/library_project.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/library_project/library_project.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/main_project/main_project.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/main_project/main_project.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/HelloWorld.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/HelloWorld.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Parser.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/Parser.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/SourceAnalysis.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/SourceAnalysis.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/MockTest.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/test/com/example/MockTest.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/HelloWorld.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/HelloWorld.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Parser.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/Parser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/SourceAnalysis.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/SourceAnalysis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/HelloWorldTest.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/test/java/com/example/HelloWorldTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/MockTest.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/test/java/com/example/MockTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/findUniqueWords.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/findUniqueWords.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/misc.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/modules.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/Base.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/Base.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Animal.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Animal.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Box.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Box.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Cat.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Cat.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Dog.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Dog.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Pet.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Pet.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Skill.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Skill.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Student.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Student.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/ExceptionThrower.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/ExceptionThrower.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/FirstInterface.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/FirstInterface.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Main.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/NewException.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/NewException.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/SecondInterface.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/SecondInterface.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test$1.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test$1.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/autoclosabletest/MyResource.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/autoclosabletest/MyResource.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/multithreading/Main.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/multithreading/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Animal.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Animal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Box.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Box.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Cat.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Cat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Dog.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Dog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Pet.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Pet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Skill.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Skill.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Student.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/ExceptionThrower.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/ExceptionThrower.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/FirstInterface.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/FirstInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/Main.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/NewException.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/NewException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/SecondInterface.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/SecondInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/Test.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/autoclosabletest/MyResource.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/autoclosabletest/MyResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Chronometer.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Chronometer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Main.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/MyThread.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/MyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/ch2.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/ch2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/misc.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/modules.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Main$1.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Main$1.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Main.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/SourceDetector.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/SourceDetector.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Test.txt" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/Main.java" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/SourceDetector.java" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/SourceDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/Test.txt" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/Test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/uniqueWords_TEA.iml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/uniqueWords_TEA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Main.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/library/Simple.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/library/Simple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/Mock.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/Mock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamReader.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamWriter.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/delegate/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoServer.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Box.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Pet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Skill.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ensty/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/main/java/ru/innopolis/HelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/main/java/ru/innopolis/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/ExceptionThrower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/FirstInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/NewException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/SecondInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/Test$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/autoclosabletest/MyResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/deadlock/Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/deadlock/Main$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/deadlock/Main$resourceA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/deadlock/Main$resourceB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/deadlock/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/gradle/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/ClientJava.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/HttpServer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/HttpServer$SocketProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/HttpServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/NetClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/NetServer$1Listener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/NetServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/javanet/ServerJava.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/multithreading/Main$Ruler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/multithreading/Main$Thread1sec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/multithreading/Main$Thread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/multithreading/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool/AbstractPool$PoolState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool/AbstractPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool/FlexibleObjectPool$FlexiblePoolConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool/FlexibleObjectPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool/PoolDepletionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ExportingProcess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ExportingTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ObjectPool$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ObjectPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ObjectPoolDemo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/objectpool_v3/ObjectPoolDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/InterfaceOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/InterfaceOneImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/InterfaceTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/reflect/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/twothreadsfive/Main$Ruler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/twothreadsfive/Main$Thread1sec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/twothreadsfive/Main$Thread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cource/ru/innopolis/uni/course2/twothreadsfive/Main.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/innopolis/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_main.iml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_test.iml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build.gradle" afterPath="$PROJECT_DIR$/../findUniqueWords/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/resources/main/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/build/resources/main/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/out/production/findUniqueWords/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/out/production/findUniqueWords/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/settings.gradle" afterPath="$PROJECT_DIR$/../findUniqueWords/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Main.java" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/resources/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cource.iml" afterPath="$PROJECT_DIR$/cource.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../findUniqueWords_v2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/libraries/Arquillian_JUnit_Release.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/libraries/Arquillian_JUnit_Release.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
     </list>
     <ignored path="Base.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -445,94 +93,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="classloader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/classloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#5942#0" expanded="true" />
-                <marker date="1479382685000" expanded="false" signature="5624:5635" ph=" { " />
-                <marker date="1479382685000" expanded="false" signature="5656:5662" ph=" }" />
-                <marker date="1479382685000" expanded="false" signature="5718:5729" ph=" { " />
-                <marker date="1479382685000" expanded="false" signature="5764:5770" ph=" }" />
-                <marker date="1479382685000" expanded="false" signature="5805:5816" ph=" { " />
-                <marker date="1479382685000" expanded="false" signature="5834:5840" ph=" }" />
-                <marker date="1479382685000" expanded="false" signature="5890:5901" ph=" { " />
-                <marker date="1479382685000" expanded="false" signature="5930:5936" ph=" }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#1775#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Execute.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/Execute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/HttpServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="38" column="98" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ServerJava.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ServerJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="210">
               <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientJava.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ClientJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -540,27 +106,79 @@
       <file leaf-file-name="NetServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1021#1022#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NetClient.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetClient.java">
+      <file leaf-file-name="DatagramDemoServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#830#831#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="555">
+              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/delegate/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/twothreadsfive/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="38" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlexibleObjectPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/objectpool/FlexibleObjectPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ensty/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatagramDemoClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -568,7 +186,7 @@
       <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="25530">
               <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
               <folding />
             </state>
@@ -597,8 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ensty/Skill.java" />
-        <option value="$PROJECT_DIR$/src/ensty/Student.java" />
         <option value="$PROJECT_DIR$/src/ensty/Box.java" />
         <option value="$PROJECT_DIR$/src/ensty/Animal.java" />
         <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/Main.java" />
@@ -636,7 +252,6 @@
         <option value="$PROJECT_DIR$/src/main/java/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/resource/log4j.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/ru/innopolis/LoggerFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/innopolis/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/classloader.java" />
@@ -648,8 +263,17 @@
         <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ServerJava.java" />
         <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetClient.java" />
         <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetServer.java" />
+        <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoServer.java" />
+        <option value="$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoClient.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
@@ -680,6 +304,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -688,14 +313,6 @@
               <option name="myItemId" value="Base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -718,123 +335,22 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javanet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classloader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="innopolis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -857,47 +373,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NetClient">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.innopolis.uni.course2.javanet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.innopolis.uni.course2.javanet.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cource" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ServerJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.innopolis.uni.course2.javanet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.innopolis.uni.course2.javanet.ServerJava" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cource" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DatagramDemoServer">
     <configuration default="false" name="ClientJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -946,6 +422,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ru.innopolis.uni.course2.javanet.NetClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="cource" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DatagramDemoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.innopolis.uni.course2.javanet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.innopolis.uni.course2.javanet.DatagramDemoServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="cource" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DatagramDemoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.innopolis.uni.course2.javanet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ru.innopolis.uni.course2.javanet.DatagramDemoClient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1034,6 +550,136 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1048,6 +694,15 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -1122,6 +777,9 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1153,6 +811,12 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1211,6 +875,28 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
     <configuration default="false" name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1233,19 +919,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ServerJava" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClientJava" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NetServer" />
-      <item index="5" class="java.lang.String" itemvalue="Application.NetClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClientJava" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NetServer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NetClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DatagramDemoServer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.DatagramDemoClient" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NetClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NetServer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClientJava" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ServerJava" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DatagramDemoServer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DatagramDemoClient" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NetClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NetServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ClientJava" />
       </list>
     </recent_temporary>
   </component>
@@ -1259,27 +945,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477997916105</updated>
+      <workItem from="1479472542263" duration="265000" />
+      <workItem from="1479472951115" duration="236000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="501000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20821919" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20821919" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24931507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21917808" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22778675" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15670651" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23505655" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1288,8 +979,9 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15670651" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1373,16 +1065,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/multithreading/Chronometer.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/multithreading/MyThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/multithreading/Thread1.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1409,13 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="40" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/objectpool/FlexibleObjectPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-922">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -1473,14 +1148,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/twothreadsfive/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1561,7 +1228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1570,7 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1591,32 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2820">
           <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#74498#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#10310#10311#0" expanded="false" />
-            <element signature="e#10340#10341#0" expanded="false" />
-            <element signature="e#18756#18757#0" expanded="false" />
-            <element signature="e#18800#18801#0" expanded="false" />
-            <element signature="e#19356#19357#0" expanded="false" />
-            <element signature="e#19407#19408#0" expanded="false" />
-            <element signature="e#20643#20644#0" expanded="false" />
-            <element signature="e#20695#20696#0" expanded="false" />
-            <element signature="e#21372#21373#0" expanded="false" />
-            <element signature="e#21440#21441#0" expanded="false" />
-            <element signature="e#24044#24045#0" expanded="false" />
-            <element signature="e#24124#24125#0" expanded="false" />
-            <element signature="e#30871#30872#0" expanded="false" />
-            <element signature="e#30943#30944#0" expanded="false" />
-            <element signature="e#57686#57687#0" expanded="false" />
-            <element signature="e#57757#57758#0" expanded="false" />
-            <element signature="e#69788#69789#0" expanded="false" />
-            <element signature="e#69856#69857#0" expanded="false" />
-            <element signature="e#73813#73814#0" expanded="false" />
-            <element signature="e#73876#73877#0" expanded="false" />
-            <element signature="e#74431#74432#0" expanded="false" />
-            <element signature="e#74493#74494#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1624,7 +1263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
           <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,15 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1648,17 +1277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#5942#0" expanded="true" />
-            <marker date="1479382685000" expanded="false" signature="5624:5635" ph=" { " />
-            <marker date="1479382685000" expanded="false" signature="5656:5662" ph=" }" />
-            <marker date="1479382685000" expanded="false" signature="5718:5729" ph=" { " />
-            <marker date="1479382685000" expanded="false" signature="5764:5770" ph=" }" />
-            <marker date="1479382685000" expanded="false" signature="5805:5816" ph=" { " />
-            <marker date="1479382685000" expanded="false" signature="5834:5840" ph=" }" />
-            <marker date="1479382685000" expanded="false" signature="5890:5901" ph=" { " />
-            <marker date="1479382685000" expanded="false" signature="5930:5936" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1666,93 +1284,201 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#1775#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/classloader/Execute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="75">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#137#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/HttpServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="495">
           <caret line="38" column="98" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="330">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ClientJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="195">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ServerJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/NetServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/ServerJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/delegate/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/javanet/DatagramDemoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25530">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ensty/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/objectpool/FlexibleObjectPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/innopolis/uni/course2/twothreadsfive/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="38" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cource</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -2,417 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac03e98-d03f-4d71-b9b9-6c3bce91eb8a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/main/ru/innopolis/resources/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/test/ru/innopolis/resources/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/classes/test/ru/innopolis/resources/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.null.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/main/ru/innopolis/resources/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/test/ru/innopolis/resources/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/classes/test/ru/innopolis/resources/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/libs/Task 1 Variation 2-1.0-SNAPSHOT.null.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Useinov Task 1 Variation 2.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/library/Simple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/Mock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/StreamReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/streams/StreamWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/test/com/example/HelloWorldTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/distributions/findUniqueWords-1.0-SNAPSHOT.tar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/distributions/findUniqueWords-1.0-SNAPSHOT.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/libs/findUniqueWords-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/libs/findUniqueWords-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/output.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/binary/test/results.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/DuplicateChecker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/ResourceFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/resource/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/resource/ResourceFactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/resource/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/FindDuplicates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/constants/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/resource/FarmResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/resource/Resource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/resource/StringResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/example/resource/TxtFileResource.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/example/resource/FarmResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/example/resource/ResourceTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/findUniqueWords_v2-1.0-SNAPSHOT.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task 1 Variation 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task_1_Variation_2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/modules/Task_1_Variation_2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/java/ru/innopolis/resources/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/test/java/ru/innopolis/resources/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/src/test/java/ru/innopolis/resources/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2 2/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task 1 Variation 2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task_1_Variation_2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/modules/Task_1_Variation_2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/debug.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/errors.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/run.log.2016-11-11.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/out/production/Task 1 Variation 2/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/java/ru/innopolis/resources/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/test/java/ru/innopolis/resources/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/src/test/java/ru/innopolis/resources/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_mockito_mockito_all_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/findUniqueWords_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/application.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/applicationTwo.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/classes/com.example.HelloWorldTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/classes/com.example.MockTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/css/base-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/js/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/reports/tests/packages/com.example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/scripts/findUniqueWords" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/scripts/findUniqueWords.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/TEST-com.example.HelloWorldTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/test-results/TEST-com.example.MockTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/tmp/war/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/ndc.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/ndc.log.2016-11-10.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/out/production/findUniqueWords/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/library/Simple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/Mock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/StreamReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/streams/StreamWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/DuplicateChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/ResourceFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/resource/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/resource/ResourceFactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/resource/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../findUniqueWords/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/findUniqueWords_v2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/findUniqueWords_v2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/findUniqueWords_v2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.number" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.example.resource.FarmResourceTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.example.resource.ResourceFactoryTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.example.resource.ResourceTest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css/base-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/js/report.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/packages/com.example.resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.example.resource.FarmResourceTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.example.resource.ResourceFactoryTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.example.resource.ResourceTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/errors.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/run.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/findUniqueWords_v2/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/FindDuplicates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/constants/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/resource/FarmResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/resource/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/resource/StringResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/resource/TxtFileResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/example/resource/FarmResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/example/resource/ResourceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../evsan-gradle_multiproject-a1cf36a726cd.zip" afterPath="$PROJECT_DIR$/../all/evsan-gradle_multiproject-a1cf36a726cd.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/library_project/library_project.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/library_project/library_project.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/main_project/main_project.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/modules/main_project/main_project.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/HelloWorld.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/HelloWorld.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Parser.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/Parser.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/SourceAnalysis.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/main/com/example/SourceAnalysis.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/test/com/example/MockTest.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/build/classes/test/com/example/MockTest.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/HelloWorld.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/HelloWorld.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Parser.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/Parser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/SourceAnalysis.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/main/java/com/example/SourceAnalysis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/HelloWorldTest.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/test/java/com/example/HelloWorldTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords/src/test/java/com/example/MockTest.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/src/test/java/com/example/MockTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords copy_ morning 2016_11_13/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/findUniqueWords.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/findUniqueWords.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/misc.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/modules.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../all/Task 1 Variation 2/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/Base.iml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/Base.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Animal.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Animal.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Box.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Box.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Cat.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Cat.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Dog.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Dog.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Pet.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Pet.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Skill.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Skill.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ensty/Student.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ensty/Student.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/ExceptionThrower.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/ExceptionThrower.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/FirstInterface.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/FirstInterface.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Main.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/NewException.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/NewException.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/SecondInterface.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/SecondInterface.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test$1.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test$1.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/Test.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/autoclosabletest/MyResource.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/autoclosabletest/MyResource.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/multithreading/Main.class" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/out/production/Base/ru/innopolis/uni/course2/multithreading/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Animal.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Animal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Box.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Box.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Cat.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Cat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Dog.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Dog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Pet.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Pet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Skill.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Skill.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ensty/Student.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ensty/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/resource.txt" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/resource.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/ExceptionThrower.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/ExceptionThrower.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/FirstInterface.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/FirstInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/Main.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/NewException.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/NewException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/SecondInterface.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/SecondInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/Test.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/autoclosabletest/MyResource.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/autoclosabletest/MyResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Chronometer.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Chronometer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Main.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/MyThread.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/MyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/ch2.java" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/src/ru/innopolis/uni/course2/multithreading/ch2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../all/findUniqueWords_old/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/misc.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/modules.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Main$1.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Main$1.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Main.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Main.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/SourceDetector.class" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/SourceDetector.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/out/production/uniqueWords_TEA/Test.txt" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/out/production/uniqueWords_TEA/Test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/Main.java" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/SourceDetector.java" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/SourceDetector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/src/Test.txt" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/src/Test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../uniqueWords_TEA/uniqueWords_TEA.iml" afterPath="$PROJECT_DIR$/../all/uniqueWords_TEA/uniqueWords_TEA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../findUniqueWords/.gradle/2.13/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Main.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/library/Simple.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/library/Simple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/Mock.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/Mock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamReader.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamWriter.class" afterPath="$PROJECT_DIR$/../findUniqueWords/build/classes/main/com/example/streams/StreamWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Base/src/ru/innopolis/uni/course2/delegate/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Base/src/ru/innopolis/uni/course2/javanet/DatagramDemoClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Base/src/ru/innopolis/uni/course2/javanet/DatagramDemoServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Base/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Base/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Base/src/main/java/ru/innopolis/HelloWorld.java" afterPath="$PROJECT_DIR$/../Base/src/main/java/ru/innopolis/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_main.iml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_test.iml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/modules/findUniqueWords_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../findUniqueWords/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build.gradle" afterPath="$PROJECT_DIR$/../findUniqueWords/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/build/resources/main/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/build/resources/main/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/out/production/findUniqueWords/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/out/production/findUniqueWords/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/settings.gradle" afterPath="$PROJECT_DIR$/../findUniqueWords/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Main.java" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/java/com/example/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../findUniqueWords/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/../findUniqueWords/src/main/resources/log4j.properties" />
     </list>
     <ignored path="Task 1 Variation 2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -467,40 +60,8 @@
                 <option name="myItemId" value="Tasks" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
               </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="findUniqueWords_v2" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
               <PATH_ELEMENT>
                 <option name="myItemId" value="other" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="findUniqueWords_v2" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="build" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
               </PATH_ELEMENT>
             </PATH>
@@ -519,9 +80,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1035">
               <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -566,17 +125,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindDuplicates.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FindDuplicates.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/FindDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="-660">
               <caret line="25" column="33" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="33" />
-              <folding>
-                <element signature="e#3654#3655#0" expanded="true" />
-                <element signature="e#3697#3698#0" expanded="true" />
-                <element signature="e#3896#3897#0" expanded="true" />
-                <element signature="e#3932#3933#0" expanded="true" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/constants/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -601,21 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debug.log" pinned="false" current-in-tab="true">
+      <file leaf-file-name="debug.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/debug.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FarmResource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/resource/FarmResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -990,7 +544,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -1023,36 +576,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="findUniqueWords_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="findUniqueWords_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1070,10 +593,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1099,36 +618,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="findUniqueWords_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="findUniqueWords_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1218,6 +707,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1620,13 +1110,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.49353796" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26712328" sideWeight="0.5420032" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16849315" sideWeight="0.5420032" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26712328" sideWeight="0.45799676" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1901,13 +1391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/constants/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
@@ -1968,19 +1451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/FindDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="e#3654#3655#0" expanded="true" />
-            <element signature="e#3697#3698#0" expanded="true" />
-            <element signature="e#3896#3897#0" expanded="true" />
-            <element signature="e#3932#3933#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/f285ac123f201fb4b028bac556928d7cf527ef48/slf4j-api-1.7.21-sources.jar!/org/slf4j/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5355">
@@ -1993,9 +1463,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2019,6 +1487,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/FindDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="33" />
           <folding />
         </state>
       </provider>
