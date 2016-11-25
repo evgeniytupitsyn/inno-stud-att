@@ -1,0 +1,1 @@
+It seems to deserialize only human, other objects won't do.

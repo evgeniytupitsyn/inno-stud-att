@@ -1,0 +1,9 @@
+bin
+.classpath
+.cvsignore
+.project
+CVS
+.gradle
+build
+h2-gradle-plugin.iml
+.idea

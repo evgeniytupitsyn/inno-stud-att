@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ru.innopolis.uni.Human>
+    <property name="money" type="int">1</property>
+    <property name="age" type="int">33</property>
+    <property name="name" type="java.lang.String">Влад</property>
+</ru.innopolis.uni.Human>
