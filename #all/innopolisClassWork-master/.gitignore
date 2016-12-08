@@ -1,0 +1,4 @@
+.idea/
+build/
+*.log
+src/main/webapp/resources/node_modules/

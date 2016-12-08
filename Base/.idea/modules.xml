@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cource.iml" filepath="$PROJECT_DIR$/cource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Base.iml" filepath="$PROJECT_DIR$/.idea/modules/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Base_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Base_main.iml" group="Base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Base_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Base_test.iml" group="Base" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,20 @@
+group 'ru.innopolis.nikn'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'war'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.0.1'
+    compile group: 'jstl', name: 'jstl', version: '1.2'
+    compile group: 'org.apache.commons', name: 'commons-dbcp2', version: '2.0'
+    compile group: 'org.postgresql', name: 'postgresql', version: '9.3-1100-jdbc4'
+    compile group: 'org.springframework', name: 'spring-webmvc', version: '4.3.3.RELEASE'
+}

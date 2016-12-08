@@ -1,13 +1,13 @@
-/*
+
 package ru.innopolis.uni.course2.classloader;
 
 import java.io.File;
 import java.util.Scanner;
 
-*/
+
 /**
  * Created by evgeniytupitsyn on 15/11/2016.
- *//*
+ */
 
 public class Main {
 
@@ -51,4 +51,4 @@ public class Main {
         }
     }
 }
-*/
+

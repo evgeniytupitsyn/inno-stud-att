@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.resource.FarmResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-13T20:32:26" hostname="MacBook-Pro-Evgenij.local" time="0.009">
+  <properties/>
+  <testcase name="createResourceWithParam" classname="com.example.resource.FarmResourceTest" time="0.009"/>
+  <system-out><![CDATA[log4j: Parsing for [root] with value=[WARN, warnAppender, warnFileAppender].
+log4j: Level token is [WARN].
+log4j: Category root set to WARN
+log4j: Parsing appender named "warnAppender".
+log4j: Parsing layout options for "warnAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5p][%-16.16t][%30c] - %m%n].
+log4j: End of parsing for "warnAppender".
+log4j: Setting property [threshold] to [WARN].
+log4j: Parsed "warnAppender" options.
+log4j: Parsing appender named "warnFileAppender".
+log4j: Parsing layout options for "warnFileAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for "warnFileAppender".
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [threshold] to [WARN].
+log4j: Setting property [file] to [logs/errors.log].
+log4j: setFile called: logs/errors.log, true
+log4j: setFile ended
+log4j: Appender [warnFileAppender] to be rolled at midnight.
+log4j: Parsed "warnFileAppender" options.
+log4j: Parsing for [com.example] with value=[DEBUG, runAppender, runFileAppender, debugFileAppender].
+log4j: Level token is [DEBUG].
+log4j: Category com.example set to DEBUG
+log4j: Parsing appender named "runAppender".
+log4j: Parsing layout options for "runAppender".
+log4j: End of parsing for "runAppender".
+log4j: Parsed "runAppender" options.
+log4j: Parsing appender named "runFileAppender".
+log4j: Parsing layout options for "runFileAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for "runFileAppender".
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [threshold] to [INFO].
+log4j: Setting property [file] to [logs/run.log].
+log4j: setFile called: logs/run.log, true
+log4j: setFile ended
+log4j: Appender [runFileAppender] to be rolled at midnight.
+log4j: Parsed "runFileAppender" options.
+log4j: Parsing appender named "debugFileAppender".
+log4j: Parsing layout options for "debugFileAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for "debugFileAppender".
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [file] to [logs/debug.log].
+log4j: setFile called: logs/debug.log, true
+log4j: setFile ended
+log4j: Appender [debugFileAppender] to be rolled at midnight.
+log4j: Parsed "debugFileAppender" options.
+log4j: Handling log4j.additivity.com.example=[null]
+log4j: Parsing for [com.example.Test] with value=[INFO, runAppender, testFileAppender].
+log4j: Level token is [INFO].
+log4j: Category com.example.Test set to INFO
+log4j: Parsing appender named "runAppender".
+log4j: Appender "runAppender" was already parsed.
+log4j: Parsing appender named "testFileAppender".
+log4j: Parsing layout options for "testFileAppender".
+log4j: Setting property [conversionPattern] to [%d{ISO8601} %p [%X] %m%n].
+log4j: End of parsing for "testFileAppender".
+log4j: Setting property [threshold] to [INFO].
+log4j: Setting property [datePattern] to ['.'yyyy-MM-dd'.log'].
+log4j: Setting property [file] to [logs/test.log].
+log4j: setFile called: logs/test.log, true
+log4j: setFile ended
+log4j: Appender [testFileAppender] to be rolled at midnight.
+log4j: Parsed "testFileAppender" options.
+log4j: Handling log4j.additivity.com.example.Test=[null]
+log4j: Finished configuring.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

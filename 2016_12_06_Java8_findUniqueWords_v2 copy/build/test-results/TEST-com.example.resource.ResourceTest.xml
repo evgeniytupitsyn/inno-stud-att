@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.resource.ResourceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-11-13T20:32:26" hostname="MacBook-Pro-Evgenij.local" time="0.013">
+  <properties/>
+  <testcase name="isTextCorrect" classname="com.example.resource.ResourceTest" time="0.003"/>
+  <testcase name="initText" classname="com.example.resource.ResourceTest" time="0.0"/>
+  <testcase name="getInputParam" classname="com.example.resource.ResourceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

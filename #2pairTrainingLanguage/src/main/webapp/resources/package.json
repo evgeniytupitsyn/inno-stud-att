@@ -1,0 +1,15 @@
+{
+  "name": "innopairTraining",
+  "version": "1.0.0",
+  "description": "This is project Innopolis pairTraining.",
+  "main": "/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "evgeniytupitsyn",
+  "license": "TEA",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
