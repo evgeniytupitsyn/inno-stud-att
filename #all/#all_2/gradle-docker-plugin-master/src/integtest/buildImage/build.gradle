@@ -1,0 +1,61 @@
+apply plugin: 'net.praqma.docker'
+
+task createZip(type: Zip) {
+	from file('zipSource')
+}
+
+net.praqma.gradle.docker.DockerContainer sum, ls
+
+docker {
+	image('test') {
+		from 'dockerContext'
+		dockerFile {
+			fromImage 'debian:wheezy'
+			add 'testdir/', 'dir'
+			add 'testdir/', 'a.txt'
+			add 'testdir/', createZip
+		}
+	}	
+	
+	sum = container('sum') {
+		localImage = 'test'
+		persistent = true 
+		// cmd to find all text files, and add the context. The sum is 8
+		cmd = ["sh", "-c", "cat \$(find /testdir -name '*.txt') | awk '{s+=\$1} END {print s}'"]
+	}
+
+	ls = container('ls') {
+		localImage = 'test'
+		cmd = ['ls', '-1', '/testdir']
+		persistent = true
+	}
+
+}
+
+task removeContainers {
+	doLast {
+		sum.remove()
+		ls.remove()
+	}
+}
+
+ls.startTask.dependsOn removeContainers
+sum.startTask.dependsOn removeContainers
+
+task validate {
+	dependsOn ls.startTask
+	dependsOn sum.startTask
+	
+	doLast {
+	    ls.waitUntilFinish()
+        sum.waitUntilFinish()
+
+		assert sum.logStream().text.trim() == '8'
+		assert ls.logStream().readLines() == ['a.txt', 'b.txt', 'createZip' ]
+	}
+	
+	doLast{
+		sum.remove()
+		ls.remove()
+	}
+}

@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+gradle.properties
+.gradle
+/build/
+/bin/
+buildSrc/build
+buildSrc/bin
+.groovy
+.idea
+gradle-docker-plugin.iml
+gradle-docker-plugin.ipr
+gradle-docker-plugin.iws
+buildSrc/buildSrc.iml
+out
